@@ -11,4 +11,6 @@ void loop() {
   PORTD = 0;
   _delay_ms(100);
   Serial.println("hej");
+  Serial.println("hej2");
+  Serial.println("hej3");
 }
